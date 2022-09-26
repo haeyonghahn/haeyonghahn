@@ -1,7 +1,8 @@
 ### Introduce 
-안녕하세요 👋   
-2년차 개발자 한해용입니다.
-
+안녕하세요 👋 2년차 개발자 한해용입니다.   
+프로젝트 설계, 시스템 구조 등 개발적인 부분에 호기심을 갖고 학습을 하고 있습니다.   
+다양한 기술에 관심이 있지만 기초부터 천천히 성장하는 것을 중요하게 생각하여    
+효율적으로 성장할 수 있는 방법에 대해 고민합니다.
 
 <!--
 **haeyonghahn/haeyonghahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

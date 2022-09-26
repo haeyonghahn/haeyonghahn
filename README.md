@@ -1,4 +1,4 @@
-<a href="mailto:yong80211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yong80211@gmail.com"/></a>
+<a href="mailto:yong80211@gmail.com"><img src="https://img.shields.io/badge/Gmail-yong80211@gmail.com-red"/></a>
 
 안녕하세요 👋 2년차 개발자 한해용입니다.   
 프로젝트 설계, 시스템 구조 등 개발적인 부분에 호기심을 갖고 학습을 하고 있습니다.   
